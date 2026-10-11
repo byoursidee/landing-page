@@ -16,7 +16,7 @@ npm run preview
 
 ## Brand and experience
 
-The latest direction uses warm ivory, sage and forest green, with muted brass accents. The supplied hand, leaf, and circuit emblem is used in the header and browser icon. The full emblem scales proportionally beside a live-text BYOURSIDEE wordmark. “Technology with people at heart” sits below the wordmark.
+The latest direction uses warm ivory, sage and forest green, with muted brass accents. A transparent-background variation of the supplied hand, leaf, and circuit emblem is used in the header and browser icon. The original dark artwork and warm ivory variation are retained in `public/`; the active asset is `public/byoursidee-emblem-transparent.png`. The full emblem scales proportionally beside a live-text BYOURSIDEE wordmark. “Technology with people at heart” sits below the wordmark.
 
 Three sculptures share a single architectural environment:
 
